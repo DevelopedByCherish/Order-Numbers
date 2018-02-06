@@ -1,6 +1,4 @@
 //Cherish Shanks
-//IT145
-//Programming Problem
 //April 29,2016
 
 import java.util.*;
